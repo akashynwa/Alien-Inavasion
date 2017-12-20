@@ -2,4 +2,4 @@
 
 ## Mini game
 
-- Still in progress
+- Still in progress.
